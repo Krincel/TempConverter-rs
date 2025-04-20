@@ -1,3 +1,2 @@
-.rs linguist-detectable = True
-Makefile linguist-language = Makefile
-linguist-detectable = false
+*.rs linguist-language=Rust
+Makefile linguist-detectable=false
