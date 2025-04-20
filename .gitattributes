@@ -1,0 +1,3 @@
+.rs linguist-detectable = True
+Makefile linguist-language = Makefile
+linguist-detectable = false
